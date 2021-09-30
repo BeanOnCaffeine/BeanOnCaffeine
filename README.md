@@ -1,6 +1,6 @@
 - 👋 Hola, I’m @BeanOnCaffeine
 - 👀 I’m learning how to create websites for fun
-- 🌱 Currently, I'm learning HTML @ West Valley Community Colleage
+- 🌱 Currently, I'm learning HTML 
 - 📫 beanoncaffeine@gmail.com
 
 <!---
